@@ -1,1 +1,10 @@
 GIT is very very good
+
+add
+-add is to stage all the modified file,created file and other and choose what to commit.
+
+commit
+-commit is to prepare all staged file during the add for that to be push to the certain branch.
+
+push
+-push is to put all committed file in your own machine to the target branch
